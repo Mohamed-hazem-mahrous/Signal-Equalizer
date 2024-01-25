@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Team Members](#Team-Members)
 - [Features](#features)
 - [Video Demonstration](#Video-Demonstration)
 - [Requirements](#requirements)
@@ -13,14 +12,6 @@
 
 ## Introduction
 This signal equalizer project provides a user-friendly interface for manipulating and analyzing audio signals. It allows users to open audio files, apply various equalization adjustments, and visualize the effects of these adjustments in real time.
-
-
-## Team-Members
-The following team members have contributed to this project:
-- Mohamed Hazem Yehya
-- Assem Hussein
-- Kyrolos Emad
-- Arsany Maged
 
 
 ## Features
