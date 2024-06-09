@@ -16,10 +16,10 @@ This signal equalizer project provides a user-friendly interface for manipulatin
 
 ## Team Members
 The following team members have contributed to this project:
-- Mohamed Hazem Yehya
-- Assem Hussein
-- Kyrolos Emad
-- Arsany Maged
+- [Mohamed Hazem Yehya](https://github.com/Mohamed-hazem-mahrous)
+- [Assem Hussein](https://github.com/RushingBlast)
+- [Kyrolos Emad](https://github.com/kyrillos-emad)
+- [Arsany Maged](https://github.com/Arsany07)
 
 
 ## Features
